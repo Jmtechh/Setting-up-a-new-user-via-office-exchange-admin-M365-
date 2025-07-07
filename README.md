@@ -15,4 +15,18 @@
 
 <h2>Program walk-through:</h2>
 
-<img src="https://i.imgur.com/5TZsBSA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YCCklIw.png" style="width:80%;" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/z4sJmev.png" style="width:80%;" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/Sa8sJ0X.png" style="width:80%;" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/Vt9PNRr.png" style="width:80%;" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/ZCNo7uj.png" style="width:80%;" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/l0sA0lE.png" style="width:80%;" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/Nuswj9q.png" style="width:80%;" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/k8PUEie.png" style="width:80%;" alt="Disk Sanitization Steps"/>
