@@ -21,11 +21,15 @@ The first thing I did was click on add a user template. This will allow me to ad
 
 <img src="https://i.imgur.com/z4sJmev.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
+With this specific user template I appled Helpdesk admin permissions.
+
 <img src="https://i.imgur.com/Sa8sJ0X.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/Vt9PNRr.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/ZCNo7uj.png" style="width:80%;" alt="Disk Sanitization Steps"/>
+
+Using the Helpdesk template I created a new user and simply assigned the helpdesk template to them. This will automatically give them Helpdesk admin rights from within the M365 environment.
 
 <img src="https://i.imgur.com/l0sA0lE.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
