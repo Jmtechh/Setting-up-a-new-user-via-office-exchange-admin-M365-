@@ -11,9 +11,11 @@
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10 OS</b>
+- <b>Windows 10</b>
 
 <h2>Program walk-through:</h2>
+
+The first thing I did was click on add a user template. This will allow me to add specific qualities to an individual user by assiging a template with pre-written qualities to them.
 
 <img src="https://i.imgur.com/YCCklIw.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
