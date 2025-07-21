@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-The aim of this lab is to demonstrate how to create a new user using Microsoft 365 exchange admin.
+The aim of this lab is to demonstrate how to create a new user via Microsoft 365 exchange admin.
 
 <h2>Utilities Used</h2>
 
