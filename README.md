@@ -30,7 +30,7 @@ With this specific user template I appled Helpdesk admin permissions.
 
 <img src="https://i.imgur.com/ZCNo7uj.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
-Using the Helpdesk template, I created a new user and assigned the template to them. This automatically granted them Helpdesk admin rights within the M365 environment
+Using the Helpdesk template, I created a new user and assigned the template I just created to them. This automatically granted them Helpdesk admin rights within the M365 environment
 
 <img src="https://i.imgur.com/l0sA0lE.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
