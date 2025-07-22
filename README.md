@@ -34,7 +34,7 @@ Using the Helpdesk template, I created a new user and assigned the template I ju
 
 <img src="https://i.imgur.com/l0sA0lE.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
-Signing into the new users account.
+Here I am signing into the new users account.
 
 <img src="https://i.imgur.com/Nuswj9q.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
