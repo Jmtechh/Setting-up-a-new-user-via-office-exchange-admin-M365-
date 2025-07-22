@@ -16,7 +16,7 @@ The aim of this lab is to demonstrate how I created a new user via Microsoft 365
 
 <h2>Program walk-through:</h2>
 
-The first step I took was to click on ‘Add a User Template' inside of the Active Users section. This enabled me to assign predefined attributes to an individual user by applying a template with preset qualities.
+The first step I took was to click on ‘Add a User Template' inside of the 'Active Users' section. This enabled me to assign predefined attributes to an individual user by applying a template with preset qualities.
 
 <img src="https://i.imgur.com/YCCklIw.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
